@@ -1,0 +1,12 @@
+{
+  "name": "tokuron-client",
+  "compatibility_date": "2025-07-14",
+  "assets": {
+    "directory": "dist",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  }
+}
